@@ -1,0 +1,37 @@
+title: Itinerary
+icon: 📅
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      events:
+        type: pages
+        headline: All Events
+        layout: table
+        columns:
+          eventdate:
+            label: Date
+            width: 1/6
+          eventtime:
+            label: Time
+            width: 1/6
+          title:
+            label: Event
+            width: 1/3
+          eventcategory:
+            label: Type
+            width: 1/6
+        template:
+          - event
+        sortBy: eventdate asc
+
+  sidebar:
+    width: 1/3
+    sections:
+      drafts:
+        type: pages
+        headline: Draft Events
+        status: draft
+        template:
+          - event

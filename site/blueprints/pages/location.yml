@@ -1,0 +1,85 @@
+title: Location
+icon: 📍
+num: "{{ page.title.slug }}"
+
+status:
+  draft:
+    label: Draft
+    text: Location is not yet visible
+  listed:
+    label: Published
+    text: Location is visible on the map
+
+tabs:
+  details:
+    label: Details
+    icon: info
+    fields:
+      description:
+        label: Description
+        type: textarea
+        size: small
+      category:
+        label: Category
+        type: select
+        options:
+          restaurant: Restaurant
+          cafe: Cafe
+          bar: Bar
+          shrine: Shrine / Temple
+          park: Park / Garden
+          museum: Museum
+          shopping: Shopping
+          hotel: Hotel / Accommodation
+          station: Train Station
+          viewpoint: Viewpoint
+          entertainment: Entertainment
+          other: Other
+        default: restaurant
+      address:
+        label: Address
+        type: text
+      website:
+        label: Website
+        type: url
+      addedby:
+        label: Added By
+        type: text
+      rating:
+        label: Rating (1-5)
+        type: number
+        min: 1
+        max: 5
+        default: 3
+      tags:
+        label: Tags
+        type: tags
+
+  map:
+    label: Map
+    icon: map
+    fields:
+      lat:
+        label: Latitude
+        type: number
+        step: 0.000001
+        width: 1/2
+      lng:
+        label: Longitude
+        type: number
+        step: 0.000001
+        width: 1/2
+      mapnotes:
+        label: Map Notes
+        type: textarea
+        size: small
+        help: "Any notes about getting to this location"
+
+  photos:
+    label: Photos
+    icon: image
+    sections:
+      photos:
+        type: files
+        layout: cards
+        template: photo

@@ -1,0 +1,41 @@
+Title: Tsukiji Outer Market
+
+----
+
+Description: The legendary outer market is still alive and thriving. Amazing street food, fresh seafood, and kitchen supplies. Go hungry — you'll want to try everything from tamagoyaki to fresh uni.
+
+----
+
+Category: restaurant
+
+----
+
+Address: 4 Chome-16-2 Tsukiji, Chuo City, Tokyo 104-0045
+
+----
+
+Website: https://www.tsukiji.or.jp/english/
+
+----
+
+Addedby: Mike
+
+----
+
+Rating: 5
+
+----
+
+Tags: food, seafood, street food, morning, must-visit
+
+----
+
+Lat: 35.6654
+
+----
+
+Lng: 139.7707
+
+----
+
+Mapnotes: Take the Hibiya Line to Tsukiji Station. Best to arrive early morning (7-8am) before the crowds.

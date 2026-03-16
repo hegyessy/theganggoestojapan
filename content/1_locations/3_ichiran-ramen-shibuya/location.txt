@@ -1,0 +1,37 @@
+Title: Ichiran Ramen Shibuya
+
+----
+
+Description: The iconic solo-booth ramen experience. Customize your tonkotsu ramen exactly how you want it — spice level, richness, garlic, and noodle firmness. A must for first-timers.
+
+----
+
+Category: restaurant
+
+----
+
+Address: 1 Chome-22-7 Jinnan, Shibuya City, Tokyo 150-0041
+
+----
+
+Addedby: Dan
+
+----
+
+Rating: 4
+
+----
+
+Tags: ramen, late night, shibuya, solo dining
+
+----
+
+Lat: 35.6617
+
+----
+
+Lng: 139.6983
+
+----
+
+Mapnotes: Near Shibuya Station. Often has a line but it moves fast. Open 24 hours!

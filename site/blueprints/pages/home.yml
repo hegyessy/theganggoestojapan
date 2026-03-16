@@ -1,0 +1,16 @@
+title: Home
+icon: 🏠
+
+fields:
+  headline:
+    label: Headline
+    type: text
+    default: "The Gang Goes to Japan"
+  subheadline:
+    label: Subheadline
+    type: text
+    default: "Our shared travel guide & itinerary"
+  intro:
+    label: Introduction
+    type: textarea
+    size: small

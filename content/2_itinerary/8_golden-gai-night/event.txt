@@ -1,0 +1,41 @@
+Title: Golden Gai Bar Crawl
+
+----
+
+Eventdate: 2026-03-24
+
+----
+
+Eventtime: 20:00
+
+----
+
+Location: Golden Gai, Shinjuku
+
+----
+
+Address: 1 Chome-1 Kabukicho, Shinjuku City, Tokyo
+
+----
+
+Lat: 35.6938
+
+----
+
+Lng: 139.7036
+
+----
+
+Description: Bar hop through the tiny alleys of Golden Gai. Try to hit 3-4 different bars. Each one is unique! Budget ¥500-1000 cover per bar.
+
+----
+
+Eventcategory: dining
+
+----
+
+Cost: 5000
+
+----
+
+Currency: JPY

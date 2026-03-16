@@ -1,0 +1,45 @@
+Title: Depart from Haneda Airport
+
+----
+
+Eventdate: 2026-04-05
+
+----
+
+Eventtime: 11:00
+
+----
+
+Location: Haneda Airport
+
+----
+
+Address: Hanedakuko, Ota City, Tokyo 144-0041
+
+----
+
+Lat: 35.5494
+
+----
+
+Lng: 139.7798
+
+----
+
+Description: Flight departs at 1pm. Arrive at Haneda by 11am. Last chance for airport shopping and one final bowl of ramen at the terminal.
+
+----
+
+Eventcategory: flight
+
+----
+
+Reservationinfo: Flight AA 176 — Confirmation: XKJF82
+
+----
+
+Cost: 0
+
+----
+
+Currency: JPY

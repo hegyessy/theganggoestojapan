@@ -1,0 +1,27 @@
+title: Locations
+icon: 📍
+
+columns:
+  left:
+    width: 2/3
+    sections:
+      locations:
+        type: pages
+        headline: All Locations
+        layout: cards
+        image:
+          cover: true
+        info: "{{ page.category }} · Added by {{ page.addedby }}"
+        template:
+          - location
+        sortBy: title asc
+
+  right:
+    width: 1/3
+    sections:
+      drafts:
+        type: pages
+        headline: Draft Locations
+        status: draft
+        template:
+          - location

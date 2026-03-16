@@ -1,0 +1,41 @@
+Title: Day Trip to Kamakura
+
+----
+
+Eventdate: 2026-03-24
+
+----
+
+Eventtime: 08:30
+
+----
+
+Location: Kamakura
+
+----
+
+Address: Kamakura, Kanagawa Prefecture
+
+----
+
+Lat: 35.3192
+
+----
+
+Lng: 139.5467
+
+----
+
+Description: Train to Kamakura (~1hr from Shinjuku). Visit the Great Buddha, Hase-dera Temple, and Komachi-dori shopping street. Try shirasu (whitebait) — Kamakura's specialty.
+
+----
+
+Eventcategory: activity
+
+----
+
+Cost: 1500
+
+----
+
+Currency: JPY

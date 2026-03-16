@@ -1,0 +1,37 @@
+Title: Golden Gai
+
+----
+
+Description: A maze of tiny alleyways packed with over 200 micro-bars, each seating 5-10 people. Every bar has its own unique theme and character. Pure Tokyo magic. Some bars charge a cover (¥500-1000).
+
+----
+
+Category: bar
+
+----
+
+Address: 1 Chome-1 Kabukicho, Shinjuku City, Tokyo
+
+----
+
+Addedby: Mike
+
+----
+
+Rating: 5
+
+----
+
+Tags: nightlife, bars, shinjuku, atmosphere, must-visit
+
+----
+
+Lat: 35.6938
+
+----
+
+Lng: 139.7036
+
+----
+
+Mapnotes: Walk from Shinjuku Station east exit. Best after 8pm. Some bars are tourist-friendly, others less so — look for English signs or open doors.

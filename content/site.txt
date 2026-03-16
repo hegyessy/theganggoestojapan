@@ -1,0 +1,21 @@
+Title: The Gang Goes to Japan
+
+----
+
+Tripname: Japan 2026
+
+----
+
+Tripdates: March 20 - April 5, 2026
+
+----
+
+Defaultlat: 35.6762
+
+----
+
+Defaultlng: 139.6503
+
+----
+
+Defaultzoom: 12
