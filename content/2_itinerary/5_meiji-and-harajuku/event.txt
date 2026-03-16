@@ -1,0 +1,41 @@
+Title: Meiji Shrine & Harajuku
+
+----
+
+Eventdate: 2026-03-22
+
+----
+
+Eventtime: 09:00
+
+----
+
+Location: Meiji Shrine
+
+----
+
+Address: 1-1 Yoyogikamizonocho, Shibuya City, Tokyo
+
+----
+
+Lat: 35.6764
+
+----
+
+Lng: 139.6993
+
+----
+
+Description: Morning visit to Meiji Shrine, then explore Takeshita Street in Harajuku for shopping and crepes. Walk through Yoyogi Park if the weather is nice.
+
+----
+
+Eventcategory: sightseeing
+
+----
+
+Cost: 0
+
+----
+
+Currency: JPY

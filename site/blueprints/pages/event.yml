@@ -1,0 +1,74 @@
+title: Event
+icon: 📅
+num: "{{ page.eventdate }}"
+
+status:
+  draft:
+    label: Draft
+    text: Event is not yet confirmed
+  listed:
+    label: Confirmed
+    text: Event is confirmed and visible
+
+fields:
+  eventdate:
+    label: Date
+    type: date
+    width: 1/2
+  eventtime:
+    label: Time
+    type: time
+    width: 1/2
+  location:
+    label: Location Name
+    type: text
+  address:
+    label: Address
+    type: text
+  lat:
+    label: Latitude
+    type: number
+    step: 0.000001
+    width: 1/2
+  lng:
+    label: Longitude
+    type: number
+    step: 0.000001
+    width: 1/2
+  description:
+    label: Description / Notes
+    type: textarea
+    size: small
+  eventcategory:
+    label: Event Type
+    type: select
+    options:
+      flight: Flight
+      train: Train / Transit
+      checkin: Hotel Check-in
+      checkout: Hotel Check-out
+      dining: Dining
+      activity: Activity / Tour
+      sightseeing: Sightseeing
+      shopping: Shopping
+      freetime: Free Time
+      other: Other
+    default: activity
+  reservationinfo:
+    label: Reservation Info
+    type: textarea
+    size: small
+    help: "Confirmation numbers, booking details, etc."
+  cost:
+    label: Estimated Cost
+    type: text
+    width: 1/2
+  currency:
+    label: Currency
+    type: select
+    width: 1/2
+    options:
+      JPY: "¥ JPY"
+      USD: "$ USD"
+      EUR: "€ EUR"
+    default: JPY

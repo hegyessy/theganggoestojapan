@@ -1,0 +1,42 @@
+title: The Gang Goes to Japan
+
+columns:
+  left:
+    width: 1/2
+    sections:
+      pages:
+        type: pages
+        headline: Sections
+        layout: cards
+        template:
+          - locations
+          - itinerary
+
+  right:
+    width: 1/2
+    sections:
+      info:
+        type: fields
+        fields:
+          tripname:
+            label: Trip Name
+            type: text
+            default: "Japan 2026"
+          tripdates:
+            label: Trip Dates
+            type: text
+            default: "March 20 - April 5, 2026"
+          defaultlat:
+            label: Default Map Latitude
+            type: number
+            step: 0.000001
+            default: 35.6762
+          defaultlng:
+            label: Default Map Longitude
+            type: number
+            step: 0.000001
+            default: 139.6503
+          defaultzoom:
+            label: Default Map Zoom
+            type: number
+            default: 12

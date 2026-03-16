@@ -1,0 +1,45 @@
+Title: Arrive at Narita Airport
+
+----
+
+Eventdate: 2026-03-20
+
+----
+
+Eventtime: 14:30
+
+----
+
+Location: Narita International Airport
+
+----
+
+Address: Narita, Chiba 282-0004
+
+----
+
+Lat: 35.7720
+
+----
+
+Lng: 140.3929
+
+----
+
+Description: Flight lands at 2:30pm. Take the Narita Express (N'EX) to Shinjuku Station (~90 min). Pick up Suica cards at the airport.
+
+----
+
+Eventcategory: flight
+
+----
+
+Reservationinfo: Flight AA 175 — Confirmation: XKJF82
+
+----
+
+Cost: 3250
+
+----
+
+Currency: JPY

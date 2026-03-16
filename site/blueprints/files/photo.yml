@@ -1,0 +1,12 @@
+title: Photo
+
+accept:
+  mime: image/jpeg, image/png, image/webp
+
+fields:
+  caption:
+    label: Caption
+    type: text
+  photographer:
+    label: Photographer
+    type: text

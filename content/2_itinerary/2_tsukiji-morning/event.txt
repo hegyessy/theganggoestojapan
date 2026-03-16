@@ -1,0 +1,41 @@
+Title: Tsukiji Market Breakfast
+
+----
+
+Eventdate: 2026-03-21
+
+----
+
+Eventtime: 07:30
+
+----
+
+Location: Tsukiji Outer Market
+
+----
+
+Address: 4 Chome-16-2 Tsukiji, Chuo City, Tokyo
+
+----
+
+Lat: 35.6654
+
+----
+
+Lng: 139.7707
+
+----
+
+Description: Early morning market crawl. Try the tamagoyaki, fresh sashimi, and grilled seafood skewers. Come hungry!
+
+----
+
+Eventcategory: dining
+
+----
+
+Cost: 3000
+
+----
+
+Currency: JPY

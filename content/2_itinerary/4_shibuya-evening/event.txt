@@ -1,0 +1,45 @@
+Title: Shibuya Sky Sunset
+
+----
+
+Eventdate: 2026-03-21
+
+----
+
+Eventtime: 17:30
+
+----
+
+Location: Shibuya Sky
+
+----
+
+Address: 2 Chome-24-12 Shibuya, Shibuya City, Tokyo
+
+----
+
+Lat: 35.6584
+
+----
+
+Lng: 139.7022
+
+----
+
+Description: Catch the sunset from the rooftop observation deck. Amazing 360-degree views of the Tokyo skyline. Followed by dinner in Shibuya.
+
+----
+
+Eventcategory: sightseeing
+
+----
+
+Reservationinfo: Time slot: 17:30 — Booking ref: SSQ-7712
+
+----
+
+Cost: 2000
+
+----
+
+Currency: JPY

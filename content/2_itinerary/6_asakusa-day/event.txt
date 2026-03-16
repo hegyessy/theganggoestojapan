@@ -1,0 +1,41 @@
+Title: Asakusa & Senso-ji
+
+----
+
+Eventdate: 2026-03-23
+
+----
+
+Eventtime: 10:00
+
+----
+
+Location: Senso-ji Temple
+
+----
+
+Address: 2 Chome-3-1 Asakusa, Taito City, Tokyo
+
+----
+
+Lat: 35.7148
+
+----
+
+Lng: 139.7967
+
+----
+
+Description: Visit Tokyo's oldest temple, browse Nakamise shopping street, then walk along the Sumida River to Tokyo Skytree area.
+
+----
+
+Eventcategory: sightseeing
+
+----
+
+Cost: 0
+
+----
+
+Currency: JPY
